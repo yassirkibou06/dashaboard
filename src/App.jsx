@@ -16,7 +16,7 @@ const App = () => {
         >
     <SideBar open={open} setOpen={setOpen}>
       <Routes>
-          <Route path="/Feed" element="" />
+          <Route path="/Feed" element={<News />} />
       </Routes>
     </SideBar>
     <div className="px-5">
