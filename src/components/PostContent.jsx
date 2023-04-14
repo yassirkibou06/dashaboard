@@ -18,7 +18,7 @@ const PostContent = () => {
           border-blue-400 font-semibold text-xs md:text-sm'>https://www.happyshack.com.au/</a>
         </div>
         <div className='my-3 h-52'>
-          <img src="/assets/pexels-quang-nguyen-vinh-2159065.jpg" alt="" className='rounded-ROne object-cover w-full h-full'/>
+          <img src="assets/pexels-quang-nguyen-vinh-2159065.jpg" alt="" className='rounded-ROne object-cover w-full h-full'/>
         </div>
       </div>
     </div>

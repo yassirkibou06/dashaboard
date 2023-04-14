@@ -9,7 +9,7 @@ const Post = () => {
             <div className='pr-16 py-7 border-b-2 border-boClr'>
                 <div className='flex items-center justify-between'>
                     <div className='flex items-center gap-3'>
-                        <img src="/assets/Oval.png" alt="" className='w-10' />
+                        <img src="assets/Oval.png" alt="" className='w-10' />
                         <div className='flex gap-2'>
                             <h2 className='font-semibold text-base'>Kate Bush</h2>
                             <li className='text-tClr font-semibold'>1h</li>
@@ -22,11 +22,11 @@ const Post = () => {
                     <HiChat className='text-2xl cursor-pointer' />
                     <HiEmojiHappy className='text-2xl cursor-pointer' />
                     <div className='flex gap-5 bg-four py-1 pl-2 pr-3 rounded-3xl'>
-                        <img src="/assets/face-with-heart.svg" alt="" className='w-6' />
+                        <img src="assets/face-with-heart.svg" alt="" className='w-6' />
                         <span className='font-semibold'>1</span>
                     </div>
                     <div className='flex gap-5 bg-four py-1 pl-2 pr-3 rounded-3xl'>
-                        <img src="/assets/face-with-sunglasses-.svg" alt="" className='w-6' />
+                        <img src="assets/face-with-sunglasses-.svg" alt="" className='w-6' />
                         <span className='font-semibold'>3</span>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ const Post = () => {
             <div className='pr-16 py-7 border-b-2 border-boClr'>
                 <div className='flex items-center justify-between'>
                     <div className='flex items-center gap-3'>
-                        <img src="/assets/Oval2.png" alt="" className='w-10' />
+                        <img src="assets/Oval2.png" alt="" className='w-10' />
                         <div className='flex gap-2'>
                             <h2 className='font-semibold text-base'>Mike Roth</h2>
                             <li className='text-tClr font-semibold'>1h</li>
@@ -53,15 +53,15 @@ const Post = () => {
                     <HiChat className='text-2xl cursor-pointer' />
                     <HiEmojiHappy className='text-2xl cursor-pointer' />
                     <div className='flex gap-5 bg-four py-1 pl-2 pr-3 rounded-3xl'>
-                        <img src="/assets/face-with-heart.svg" alt="" className='w-6' />
+                        <img src="assets/face-with-heart.svg" alt="" className='w-6' />
                         <span className='font-semibold'>1</span>
                     </div>
                 </div>
                 <div className='px-9 flex items-center gap-6'>
                     <div className='flex'>
-                        <img src="/assets/Oval.png" alt="" className='w-8' />
-                        <img src="/assets/Oval1.png" alt="" className='w-8' />
-                        <img src="/assets/Oval2.png" alt="" className='w-8' />
+                        <img src="assets/Oval.png" alt="" className='w-8' />
+                        <img src="assets/Oval1.png" alt="" className='w-8' />
+                        <img src="assets/Oval2.png" alt="" className='w-8' />
                     </div>
                     <div>
                         <h4 className='text-blue-400 cursor-pointer'>Show Replies (4)</h4>

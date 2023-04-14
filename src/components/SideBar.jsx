@@ -45,7 +45,7 @@ const SideBar = ({ open, setOpen }) => {
                 <div className={`${open ? 'opacity-100' : 'opacity-0 md:opacity-100'}`}>
                 <div className={`flex items-center mt-5 ${open ? 'gap-2' 
                 : 'gap-5 w-10 pr-1' }`}>
-                    <img src="/assets/Oval.png" alt="" className={`w-14`} />
+                    <img src="assets/Oval.png" alt="" className={`w-14`} />
                     <div>
                         <h3 className="text-two font-bold md:text-[1rem]">Good morning. 👋</h3>
                         <h2 className="font-semibold md:text-[0.90rem]">Tom Cook</h2>
